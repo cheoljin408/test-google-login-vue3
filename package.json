@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-gapi": "^2.1.2",
+    "vue3-google-login": "^2.0.12",
+    "vue3-google-oauth2": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
