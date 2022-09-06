@@ -1,4 +1,4 @@
-# test-vue3-oauth
+# test-google-login-vue3
 
 ## Project setup
 ```
